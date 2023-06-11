@@ -169,13 +169,13 @@ st.sidebar.write(candidate)
 # Identify the FinTech Finder candidate's hourly rate
 hourly_rate = candidate_database[person][3]
 
-# Write the inTech Finder candidate's hourly rate to the sidebar
+# Write the FinTech Finder candidate's hourly rate to the sidebar
 st.sidebar.write(hourly_rate)
 
 # Identify the FinTech Finder candidate's Ethereum Address
 candidate_address = candidate_database[person][1]
 
-# Write the inTech Finder candidate's Ethereum Address to the sidebar
+# Write the Fcry    inTech Finder candidate's Ethereum Address to the sidebar
 st.sidebar.write(candidate_address)
 
 # Write the Fintech Finder candidate's name to the sidebar
@@ -283,7 +283,7 @@ if st.sidebar.button("Send Transaction"):
 
 # The function that starts the Streamlit application
 # Writes FinTech Finder candidates to the Streamlit page
-get_people()
+get_people(w3)
 
 ################################################################################
 # Step 3: Inspect the Transaction
