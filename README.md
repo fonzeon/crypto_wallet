@@ -14,3 +14,6 @@ Review the transaction hash code associated with the validated blockchain transa
 Conclusion:
 Transaction sent successfully!
 
+<img width="1280" alt="Screen Shot 2023-06-11 at 10 21 57 AM" src="https://github.com/fonzeon/crypto_wallet/assets/7315911/89c1fbfe-f2fd-46b7-9aa3-08ec0f33f861">
+<img width="1154" alt="Screen Shot 2023-06-11 at 10 19 46 AM" src="https://github.com/fonzeon/crypto_wallet/assets/7315911/7efe9859-4cc1-4f71-9aed-bf9d64a1f72f">
+<img width="1154" alt="Screen Shot 2023-06-11 at 10 19 14 AM" src="https://github.com/fonzeon/crypto_wallet/assets/7315911/fac9de0b-2cc6-4fca-8b9f-5ae31e1432ca">
